@@ -6,5 +6,7 @@ public class GetHeapSize {
          
         //Print the jvm heap size.
         System.out.println("Heap Size = " + heapSize);
+		System.out.println("Heap Size = " + heapSize);
+		System.out.println("Heap Size = " + heapSize);
     }
 } 
